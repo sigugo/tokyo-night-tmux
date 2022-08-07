@@ -8,7 +8,7 @@ Forked from [Alejandro Amaral](https://github.com/janoamaral/tokyo-night-tmux)
 
 In your `tmux.conf`:
 ```
-set -g @plugin "janoamaral/tokyo-night-tmux"
+set -g @plugin "sigugo/tokyo-night-tmux"
 ```
 
 ### Snapshots
