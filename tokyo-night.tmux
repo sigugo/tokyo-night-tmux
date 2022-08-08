@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
-TOKYO_NIGHT="src/tokyo-night-status.conf"
+SOURCE_FILE="src/tokyo-night-status.conf"
 CURRENT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-main() {
-  tmux source-file "$CURRENT_DIR/$TOKYO_NIGHT"
+__load() {
+    tmux source-file "$CURRENT_DIR/$SOURCE_FILE"
 }
 
-main
+__load
