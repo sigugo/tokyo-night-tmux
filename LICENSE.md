@@ -1,7 +1,6 @@
 MIT License (MIT)
 
-Copyright (c) 2018 Lógico Software <hi@logico.com.ar>
-(https://logico.com.ar)
+Copyright (c) 2018 Lógico Software <hi@logico.com.ar> (https://logico.com.ar)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
